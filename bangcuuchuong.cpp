@@ -1,5 +1,10 @@
 #include <stdio.h>
 #include <windows.h>
+// tôi sẽ thêm màu vào bảng cửu chương nhaaa
+// 
+/// 
+/// 
+///
 void setColor(int color)
 {
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), color);
