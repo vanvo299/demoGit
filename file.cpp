@@ -26,8 +26,7 @@ int main() {
 
     
 
-    // In giá trị của góc cả ở radian và độ
-  
+    printf("Toi da thay doi mot so o code tai dong 29\n"); 
     // In giá trị của sin(x) tính bằng khai triển
     printf("Gia tri cua sinx theo khai trien: %.6lf\n", tinh_Sin(x));
 
