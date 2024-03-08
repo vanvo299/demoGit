@@ -31,6 +31,7 @@ double tinh_sin(double x) {
 }
 
 int main() {
+    // tôi sẽ thay đổi code tại dòng số 34
     double x; // khởi tạo giá trị x
     printf("Nhap x (Gia tri nhap vao tinh theo radian): ");
     scanf("%lf", &x);
